@@ -5,6 +5,8 @@ public class gitby {
 		System.out.println("helloji");
 		System.out.println("yui");
 		System.out.println("jkl");
+		System.out.println("jkl");
+
 	}
 
 }
